@@ -1,0 +1,26 @@
+{
+  "apple": {
+    "label": "Apple / iPhone tips & tricks",
+    "hashtags": ["iphonetips", "iphonetricks", "iphonehacks", "ios26", "iphonefeatures", "iphonesettings", "appletips", "iphoneapps"]
+  },
+  "iphone-tips": {
+    "label": "iPhone tips & hidden features",
+    "hashtags": ["iphonetips", "iphonetricks", "iphonehacks", "hiddenfeatures", "iphonehiddenfeatures"]
+  },
+  "iphone-settings": {
+    "label": "iPhone settings",
+    "hashtags": ["iphonesettings", "iossettings", "iphonebattery", "iphonecamerasettings"]
+  },
+  "iphone-apps": {
+    "label": "iPhone apps",
+    "hashtags": ["iphoneapps", "bestapps", "appsforiphone", "iosapps", "productivityapps"]
+  },
+  "ios": {
+    "label": "iOS updates & new features",
+    "hashtags": ["ios26", "iosupdate", "newiphone", "applenews", "iphone17"]
+  },
+  "mac": {
+    "label": "Mac & Apple ecosystem",
+    "hashtags": ["mactips", "macbooktips", "appleecosystem", "ipadtips", "applewatchtips"]
+  }
+}
