@@ -1,0 +1,15 @@
+{
+  "mcpServers": {
+    "apify": {
+      "type": "http",
+      "url": "https://mcp.apify.com/?tools=actors,docs,apify/instagram-hashtag-scraper,apify/instagram-reel-scraper,clockworks/tiktok-scraper",
+      "headers": {
+        "Authorization": "Bearer ${APIFY_TOKEN:-}"
+      }
+    },
+    "notion": {
+      "type": "http",
+      "url": "https://mcp.notion.com/mcp"
+    }
+  }
+}
